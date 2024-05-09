@@ -3,13 +3,8 @@
 - 🌱 I’m currently learning react.js
 - ⚡ Fun fact: I love playing guitar and football.
 
-
-
-
-
-<p align="left"> <a href="https://twitter.com/bikimaharjan_" target="blank"><img src="https://img.shields.io/twitter/follow/bikimaharjan_?logo=twitter&style=for-the-badge" alt="bikimaharjan_" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://twitter.com/bikimaharjan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bikimaharjan_" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100088171411799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100088171411799" height="30" width="40" /></a>
@@ -18,7 +13,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biki-maharjan&" alt="biki-maharjan" /></p>
-
+<br>
 <p align="left">
 </p>
 
